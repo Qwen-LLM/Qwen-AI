@@ -96,7 +96,7 @@ If the reply is coherent, the loader, the tokenizer, and the device agree.
 
 qwen local deployment means that same loop on hardware you control.
 
-![Editor Placeholder](eval/image2.jpg)
+![Editor Placeholder](eval/image2.jpeg)
 
 The editor slot is the prompt on the left and the reply on the right.
 
